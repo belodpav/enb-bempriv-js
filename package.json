@@ -1,0 +1,27 @@
+{
+  "name": "enb-bempriv-js",
+  "version": "1.0.0",
+  "description": "bempriv tech for enb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bem-priv": "git+https://github.com/sbmaxx/bem-priv.git#2.1.0",
+    "vow": "^0.4.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belodpav/enb-bempriv-js.git"
+  },
+  "keywords": [
+    "enb-tech",
+    "bempriv"
+  ],
+  "author": "belodpav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belodpav/enb-bempriv-js/issues"
+  },
+  "homepage": "https://github.com/belodpav/enb-bempriv-js#readme"
+}
